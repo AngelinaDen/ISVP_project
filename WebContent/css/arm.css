@@ -1,0 +1,76 @@
+.form_auth_block{
+    width: 1200px;
+    height: 680px;
+    margin: 0 auto;
+    background-image: url('../images/1.jpg');
+	background-size: cover;
+    border-radius: 4px;
+}
+
+.form_nach_block{
+    width: 1200px;
+    height: 680px;
+    margin: 0 auto;
+    font-size: 20px;
+    background: #6E83DD;
+    border-radius: 4px;
+}
+
+.form_data_ch_p_block{
+    width: 1200px;
+    height: 680px;
+    margin: 0 auto;
+    font-size: 20px;
+    background: #6E83DD;
+    border-radius: 4px;
+}
+
+.tablee{
+	width: 90%;
+	background: #FFFFFF;
+	border: 1px black;
+	border-collapse: collapse;
+}
+
+.tablee_Ch_P{
+	width: 90%;
+	background: #FFFFFF;
+	border: 1px black;
+	border-collapse: collapse;
+}
+
+.form_auth_block_head_text {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: 600;
+    background: #B2D4EA;
+    opacity: 0.7;
+    font: 2em Arial, sans-serif;
+    text-shadow: black 1px 1px 0, black -1px -1px 0, 
+                 black -1px 1px 0, black 1px -1px 0;
+}
+
+.bg{
+	width: 400px;
+	height: 250px;
+	background: #B2D4EA;
+}
+.rounded-input {
+  padding:10px;
+  border-radius:20px;
+  font-size:20px;
+ }
+.input {
+padding-left: 15px;
+padding-right:1px;
+/*padding-top:200px;сдвиг вниз*/
+/*margin:10px;диоганаль*/
+}
+
+.stroke {
+    font: 2em Arial, sans-serif;
+    text-shadow: black 1px 1px 0, black -1px -1px 0, 
+                 black -1px 1px 0, black 1px -1px 0;
+   }
